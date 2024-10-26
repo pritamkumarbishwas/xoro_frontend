@@ -12,9 +12,9 @@ This is a task management application built with React and Redux, allowing users
 
 ## Tech Stack
 
-- **Frontend**: React, Redux, Tailwind CSS
+- **Frontend**: React, Redux Saga , Tailwind CSS
 - **State Management**: Redux
-- **Development Tools**: Node.js, npm
+- **Development Tools**: Node.js,Express js , MongoDB, npm
 
 ## Installation
 
