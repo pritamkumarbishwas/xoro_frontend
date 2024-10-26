@@ -20,4 +20,7 @@ This is a task management application built with React and Redux, allowing users
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/task-management-app.git
+   git clone https://github.com/pritamkumarbishwas/xoro_frontend.git
+   cd xoro_frontend
+   npm install
+   npm start
